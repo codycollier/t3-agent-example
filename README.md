@@ -1,1 +1,5 @@
-# t3-agent-example
+# Tic Tac Toe Agent
+
+Basic illustration of an agent
+
+
